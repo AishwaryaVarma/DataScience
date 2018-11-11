@@ -1,6 +1,6 @@
 # Open Datasets
 
-### Analytics Vidhya - 25 Open Datasets for Deep Learning Every Data Scientist Must Work With
+### Analytics Vidhya - 25 Open Datasets for Deep Learning Every Data Scientist Must Work With:
 https://www.analyticsvidhya.com/blog/2018/03/comprehensive-collection-deep-learning-datasets/
 
 ### Argentina Open Data
